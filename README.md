@@ -5,7 +5,7 @@
 
 <br><br>
 
-- :school: I am a `Junior`.
+- :school: I am a `dev`.
 - :trophy: Front-end web developer with experience in react .
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
